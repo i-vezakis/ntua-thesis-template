@@ -1,0 +1,15 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is '/Users/yannis/Repos/ntua-thesis-template/.texpadtmp/thesis.blg'
+[60] biber-darwin:303> INFO - === Thu Mar 14, 2019, 16:11:09
+[91] Biber.pm:359> INFO - Reading '/Users/yannis/Repos/ntua-thesis-template/.texpadtmp/thesis.bcf'
+[167] Biber.pm:835> INFO - Found 1 citekeys in bib section 0
+[182] Biber.pm:3670> INFO - Processing section 0
+[197] Biber.pm:3840> INFO - Looking for bibtex format file '/Users/yannis/Repos/ntua-thesis-template/bibliography.bib' for section 0
+[198] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[203] bibtex.pm:1292> INFO - Found BibTeX data source '/Users/yannis/Repos/ntua-thesis-template/bibliography.bib'
+[224] UCollate.pm:68> INFO - Overriding locale 'el-GR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[224] UCollate.pm:68> INFO - Overriding locale 'el-GR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[224] Biber.pm:3499> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'el-GR'
+[224] Biber.pm:3505> INFO - No sort tailoring available for locale 'el-GR'
+[226] bbl.pm:608> INFO - Writing '/Users/yannis/Repos/ntua-thesis-template/.texpadtmp/thesis.bbl' with encoding 'UTF-8'
+[227] bbl.pm:712> INFO - Output to /Users/yannis/Repos/ntua-thesis-template/.texpadtmp/thesis.bbl
